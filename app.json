@@ -4,6 +4,12 @@
     "slug": "nubank",
     "privacy": "public",
     "sdkVersion": "34.0.0",
+    "ios": {
+      "bundleIdentifier": "com.ajaxti.nubank"
+    },
+    "android": {
+      "package": "com.ajaxti.nubank"
+    },
     "platforms": [
       "ios",
       "android",
@@ -25,6 +31,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/davi-94/react-native-nubank"
   }
 }
